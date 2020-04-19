@@ -68,6 +68,6 @@ router.use("/classify", async (req, res) => {
   }) 
 });
 router.use('/', (req, res) => {
-  res.sendFile(__dirname+'/index.html');
+  res.sendFile(path.join(__dirname,'static','index.html'));
 })
 module.exports = router;
