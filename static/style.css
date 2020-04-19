@@ -3,12 +3,11 @@ body {
     scroll-behavior: unset;
 }
 .myContainer{
-    margin-top: 7%;
-    margin-top: 7%;
+    margin-top: 7vh;
     margin-left: 12vw;
     margin-right: 12vw;
     background-color: salmon;
-    padding: 2rem;
+    padding: 2vh;
 }
 h1, h2, h3, h4 {
     font-family: 'Raleway',Helvetica, Arial, sans-serif;
@@ -17,19 +16,19 @@ h1, h2, h3, h4 {
 p {
     font-family: Roboto, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: floralwhite;
-    font-size: 1.5rem;
+    font-size: 5vh;
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 10vh;
 }
 
 .headerContainer {
     display: flex;
     flex-flow: column wrap;
     align-items: center;
-    margin-top: 2rem;
-    line-height: 1rem;
+    margin-top: 2vh;
+    line-height: 1vh;
 }
 a {
     color: ivory;
