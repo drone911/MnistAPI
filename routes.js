@@ -60,7 +60,7 @@ router.use("/classify", async (req, res) => {
       const predArray = await prediction.array();
       res.json(
         Object.assign(
-          {sucess: true},
+          {success: true},
           argMax(predArray[0])
         )
       )
