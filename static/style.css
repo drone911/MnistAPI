@@ -16,11 +16,11 @@ h1, h2, h3, h4 {
 p {
     font-family: Roboto, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: floralwhite;
-    font-size: 5vmin;
+    font-size: 2vmax;
 }
 
 h1 {
-    font-size: 5vmin;
+    font-size: 10vmax;
 }
 
 .headerContainer {
