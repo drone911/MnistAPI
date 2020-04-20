@@ -24,6 +24,6 @@ app.use(function(req, res, next) {
 app.use("/", Routes);
 
 app.listen(app.get('port'), () => {
-  console.log("started server"+ app.get('port'));
+  console.log("started server "+ app.get('port'));
 });
 
