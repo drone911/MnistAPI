@@ -1,5 +1,5 @@
 # MnistAPI
-an API to classify handwritten digits
+An API to classify handwritten digits
 # Usage
 -> To classify the following digit.
 <br>
